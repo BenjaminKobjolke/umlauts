@@ -67,6 +67,10 @@ return
 	Send, Ö
 return
 
+!s:: 
+	Send, ß
+return
+
 
 Reload:
 	Reload
